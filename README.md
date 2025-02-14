@@ -3,9 +3,7 @@
 This is a classic Snake game implemented in Java as an exercise for a CIS1200 class project at the University of Pennsylvania.
 
 ## Core Concepts Implemented
-- **2D Array:** Implemented the gameboard using a 2D array of Tiles in `TileGrid`.
 - **File I/O:** Used `BufferedWriter` and `BufferedReader` to save and load game states.
-- **Inheritance and Subtyping:** Created `Consumable` interface, implemented by `GrowFood` and `SpeedFood`.
 - **JUnit Testing:** Tested key functions like snake movement, direction changes, growth, and food consumption.
 
 ## Project Structure
